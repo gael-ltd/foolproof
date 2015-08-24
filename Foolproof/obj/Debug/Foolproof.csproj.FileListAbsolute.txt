@@ -9,10 +9,10 @@ C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.dll
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.Razor.dll
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.Helpers.xml
+C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.Mvc.xml
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.Razor.xml
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.xml
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\work\gael-foolproof\Foolproof\bin\Debug\System.Web.WebPages.Razor.xml
-C:\work\gael-foolproof\Foolproof\obj\Debug\Foolproof.csprojResolveAssemblyReference.cache
 C:\work\gael-foolproof\Foolproof\obj\Debug\MVC Foolproof Validation.dll
 C:\work\gael-foolproof\Foolproof\obj\Debug\MVC Foolproof Validation.pdb

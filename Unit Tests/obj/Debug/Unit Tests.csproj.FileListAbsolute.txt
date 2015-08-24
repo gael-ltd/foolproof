@@ -1,22 +1,23 @@
-C:\work\gael-foolproof\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
+C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.dll.config
 C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.dll
 C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.pdb
 C:\work\gael-foolproof\Unit Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Mvc.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Razor.dll
 C:\work\gael-foolproof\Unit Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Helpers.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Razor.dll
 C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Mvc.dll
 C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation.pdb
 C:\work\gael-foolproof\Unit Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.xml
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Helpers.xml
 C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Razor.xml
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.xml
 C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Mvc.xml
+C:\work\gael-foolproof\Unit Tests\obj\Debug\Unit Tests.csprojResolveAssemblyReference.cache
 C:\work\gael-foolproof\Unit Tests\obj\Debug\MVC Foolproof Validation Unit Tests.dll
 C:\work\gael-foolproof\Unit Tests\obj\Debug\MVC Foolproof Validation Unit Tests.pdb
-C:\work\gael-foolproof\Unit Tests\bin\Debug\MVC Foolproof Validation Unit Tests.dll.config
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Helpers.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Razor.dll
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.Helpers.xml
-C:\work\gael-foolproof\Unit Tests\bin\Debug\System.Web.WebPages.Razor.xml
